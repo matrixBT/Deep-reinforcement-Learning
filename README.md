@@ -1,5 +1,5 @@
 # Deep-reinforcement-Learning
-Deep Reinforcement Learning for Atari with Improvised* Architecture
+Deep Reinforcement Learning for Atari with <span style="color:blue"> Improvised* </span> Architecture
 (More details will be updated soon)
 
 ## Requirements:
