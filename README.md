@@ -1,6 +1,6 @@
 # Deep-reinforcement-Learning
-Deep Reinforcement Learning for Atari with Fire_Intercept Architecture (*Proposed)
-(Details will be updated soon)
+Deep Reinforcement Learning for Atari with Improvised* Architecture
+(More details will be updated soon)
 
 ## Requirements:
 
