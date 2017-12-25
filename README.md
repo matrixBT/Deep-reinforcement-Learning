@@ -37,6 +37,11 @@ Check:https://github.com/j8lp/atari-py
 ```bash
 pip install https://pypi.python.org/packages/68/c3/300c6f92b21886b0fe42c13f3a39a06c6cb90c9fbb1b71da85fe59091a7d/pyglet-1.2.4-py3-none-any.whl#md5=08e6404a678f91b4eee85eb33b028d88
 ```
+## Results
+Model | Parameters | Depth | Ave Reward | Avg Steps Played | Avg training time
+--- | --- | --- | --- | --- | ---
+DeepMind | 16,88,745 | 5 | 184.0 | 4423 | 207 sec/Epoch
+Improvised | 17,83,145  | 10 | 343.6 | 7972 | 258 sec/Epoch
 
 
 ## Papers Followed:
